@@ -9,3 +9,4 @@ Data orginination link: https://ourworldindata.org/covid-deaths
 A Tableau Dashboard was created with the finished SQL code.
 Link to Dashboard: https://public.tableau.com/views/COVID-19PortfolioProject_17271347768460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
+Wiki page also contains Tableau Dashboard: https://github.com/AliciaAlcarazTsele/SQLPortfolioProject-COVID/wiki/Tableau-Dashboard-for-COVID%E2%80%9019-Data
