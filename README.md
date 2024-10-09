@@ -7,6 +7,5 @@ The data comes from Our World in Data (OWID), a scientific online publication th
 Data orginination link: https://ourworldindata.org/covid-deaths
 
 A Tableau Dashboard was created with the finished SQL code.
-Link to Dashboard: https://public.tableau.com/views/COVID-19PortfolioProject_17271347768460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
-
-Wiki page also contains Tableau Dashboard: https://github.com/AliciaAlcarazTsele/SQLPortfolioProject-COVID/wiki/Tableau-Dashboard-for-COVID%E2%80%9019-Data
+Link to Dashboard on Tableau: https://public.tableau.com/views/COVID-19PortfolioProject_17271347768460/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
+Link to Dashboard on GitHub: https://github.com/AliciaAlcarazTsele/SQLPortfolioProject-COVID/wiki/Tableau-Dashboard-for-COVID%E2%80%9019-Data
